@@ -1,0 +1,88 @@
+{
+    "success": true,
+    "data": {
+        "candidate_name": "Ahmed Mohamed Hassan",
+        "professional_title": "Senior Credit Analyst",
+        "professional_summary": "Results-driven Credit Analyst with 5+ years of experience in credit assessment, loan underwriting, and portfolio management at leading Egyptian banks. Proven track record of managing EGP 350M+ SME portfolios while maintaining NPL ratio below 2.5%. Expertise in credit scoring, financial statement analysis, and CBE regulatory compliance. Seeking to leverage analytical skills and banking expertise in a Senior Credit Analyst role.",
+        "experience": [
+            {
+                "title": "Credit Analyst",
+                "company": "Commercial International Bank (CIB)",
+                "period": "Jan 2020 - Present",
+                "bullets": [
+                    "Analyzed 180+ credit applications monthly for SME and corporate clients with combined exposure of EGP 350M, achieving 97% accuracy in risk assessment",
+                    "Reduced NPL ratio from 4.2% to 2.5% through implementation of enhanced early warning monitoring system",
+                    "Conducted comprehensive financial statement analysis for credit decisions ranging from EGP 5M to EGP 50M",
+                    "Collaborated with Collections team to restructure 25 delinquent accounts, achieving 82% recovery rate",
+                    "Prepared credit committee presentations for facilities exceeding EGP 20M, with 94% approval rate",
+                    "Implemented automated credit scoring validation process, reducing assessment time by 35%"
+                ]
+            },
+            {
+                "title": "Junior Credit Officer",
+                "company": "Banque Misr",
+                "period": "Jun 2017 - Dec 2019",
+                "bullets": [
+                    "Processed 100+ retail and SME credit applications monthly with average ticket size of EGP 2M",
+                    "Conducted site visits and collateral valuations for 200+ properties across Greater Cairo",
+                    "Supported senior analysts in preparing credit memos and risk assessments for corporate facilities",
+                    "Maintained portfolio documentation in compliance with CBE regulatory requirements",
+                    "Achieved 98% accuracy rate in financial data entry and creditworthiness calculations"
+                ]
+            }
+        ],
+        "skills": {
+            "core": [
+                "Credit Risk Assessment",
+                "Financial Statement Analysis",
+                "Loan Underwriting",
+                "NPL Management",
+                "Portfolio Management",
+                "Credit Scoring Models",
+                "Collateral Valuation",
+                "Debt Restructuring"
+            ],
+            "technical": [
+                "Excel (Advanced: VLOOKUP, Pivot Tables, DCF Models)",
+                "Core Banking Systems",
+                "Power BI",
+                "Moody's Analytics",
+                "SAP FICO"
+            ],
+            "languages": [
+                "Arabic (Native)",
+                "English (Fluent)"
+            ]
+        },
+        "education": [
+            "Bachelor of Commerce, Accounting Major - Cairo University, 2017"
+        ],
+        "certifications": [
+            "CFA Level II Candidate, 2024",
+            "Egyptian Banking Institute - Credit Analysis Certificate, 2019"
+        ],
+        "ats_score": 87,
+        "matched_keywords": [
+            "credit risk",
+            "NPL management",
+            "financial statement analysis",
+            "credit scoring",
+            "portfolio management",
+            "loan underwriting",
+            "collateral valuation",
+            "CBE regulations",
+            "SME lending",
+            "credit assessment",
+            "Excel",
+            "Power BI",
+            "debt restructuring"
+        ],
+        "suggestions": [
+            "Consider adding FRM certification to strengthen risk management credentials",
+            "Include specific mention of Basel III/IV knowledge if applicable",
+            "Add quantified metric for total credit facilities approved over career"
+        ]
+    },
+    "processing_ms": 2847,
+    "_note": "This is a demonstration output showing the structure and capabilities of the Finance CV Optimizer. See README for more information."
+}
