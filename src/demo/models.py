@@ -9,7 +9,7 @@ Finance CV Optimizer - Data Models
 ║  of the full implementation.                                                  ║
 ║                                                                                ║
 ║  The full production-ready implementation is available on Gumroad:            ║
-║  https://gumroad.com/l/your-product-link                                      ║
+║  https://assam3.gumroad.com/                                      ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 """
 

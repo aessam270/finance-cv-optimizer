@@ -10,7 +10,7 @@ Finance CV Optimizer - Interface Definitions
 ║  All methods raise NotImplementedError.                                       ║
 ║                                                                                ║
 ║  The full production-ready implementation is available on Gumroad:            ║
-║  https://gumroad.com/l/your-product-link                                      ║
+║  https://assam3.gumroad.com/                                      ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 """
 
@@ -60,7 +60,7 @@ class BaseCVAgent(ABC):
         """
         raise NotImplementedError(
             "This is a demo interface. "
-            "Get the full implementation at https://gumroad.com/l/your-product-link"
+            "Get the full implementation at https://assam3.gumroad.com/"
         )
 
 
@@ -91,7 +91,7 @@ class FinanceCVAgent(BaseCVAgent):
         """
         raise NotImplementedError(
             "This is a demo interface. "
-            "Get the full implementation at https://gumroad.com/l/your-product-link"
+            "Get the full implementation at https://assam3.gumroad.com/"
         )
     
     async def optimize(
@@ -118,7 +118,7 @@ class FinanceCVAgent(BaseCVAgent):
         """
         raise NotImplementedError(
             "This is a demo interface. "
-            "Get the full implementation at https://gumroad.com/l/your-product-link"
+            "Get the full implementation at https://assam3.gumroad.com/"
         )
 
 
@@ -145,5 +145,5 @@ class PDFGenerator:
         """
         raise NotImplementedError(
             "PDF generation is only available in the full version. "
-            "Get it at https://gumroad.com/l/your-product-link"
+            "Get it at https://assam3.gumroad.com/"
         )

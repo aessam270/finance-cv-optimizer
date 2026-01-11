@@ -13,7 +13,7 @@
 > **This repository is a showcase/demo only.**
 > The full production-ready backend with complete AI logic, system prompts, and PDF generation is available on Gumroad.
 >
-> 👉 **[Get the Full Version on Gumroad](https://gumroad.com/l/your-product-link)**
+> 👉 **[Get the Full Version on Gumroad](https://assam3.gumroad.com/)**
 
 ---
 
@@ -204,7 +204,7 @@ The complete production-ready package includes:
 
 ## 💰 Ready to Build Your CV Optimization Product?
 
-[![Get on Gumroad](https://img.shields.io/badge/Get_Full_Version-Gumroad-ff6fff?style=for-the-badge&logo=gumroad)](https://gumroad.com/l/your-product-link)
+[![Get on Gumroad](https://img.shields.io/badge/Get_Full_Version-Gumroad-ff6fff?style=for-the-badge&logo=gumroad)](https://assam3.gumroad.com/)
 
 **One-time purchase. Full source code. Commercial license included.**
 

@@ -5,7 +5,7 @@ This package contains demonstration code showing the structure
 and interfaces of the Finance CV Optimizer.
 
 ⚠️ This is NOT a functional implementation.
-   Get the full version at: https://gumroad.com/l/your-product-link
+   Get the full version at: https://assam3.gumroad.com/
 """
 
 from .models import RoleType, OptimizedCV, OptimizeRequest, OptimizeResponse

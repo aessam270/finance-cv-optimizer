@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > This document provides a high-level architectural overview.
-> The full implementation details are available in the [production version on Gumroad](https://gumroad.com/l/your-product-link).
+> The full implementation details are available in the [production version on Gumroad](https://assam3.gumroad.com/).
 
 ---
 
@@ -154,4 +154,4 @@ This overview shows the high-level design. The full implementation includes:
 - Configuration management
 - Production deployment guides
 
-👉 **[Get the Full Version on Gumroad](https://gumroad.com/l/your-product-link)**
+👉 **[Get the Full Version on Gumroad](https://assam3.gumroad.com/)**
